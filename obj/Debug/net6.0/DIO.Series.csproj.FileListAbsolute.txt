@@ -1,0 +1,15 @@
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/DIO.Series
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/Users/crd/Projects/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/Users/crd/Projects/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
